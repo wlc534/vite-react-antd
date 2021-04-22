@@ -2,7 +2,7 @@
 
 ![logo](./screenshot/package-name.png)
 
-[React](https://reactjs.org),[antd](https://ant.design/index-cn),[ECharts](https://echarts.apache.org), [ahooks](https://ahooks.js.org/), powered by [Snowpack](https://www.snowpack.dev).
+[React](https://reactjs.org),[antd](https://ant.design/index-cn),[ECharts](https://echarts.apache.org), [ahooks](https://ahooks.js.org/), powered by [Vite](https://vitejs.dev/).
 
 
 该项目借助Vite利用现代浏览器原生支持ESModule模块加载能力实现 Bundless方案,在构建提效非常明显,其中结合企业级中后台场景,集成antd组件库、📈图表展示ECharts、时间处理moment、ahooks等、请求代理、接口数据来自cnode线上数据等,还原真实开发场景，开箱即用。
